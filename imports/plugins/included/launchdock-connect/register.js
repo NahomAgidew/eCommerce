@@ -1,7 +1,7 @@
 import { Reaction } from "/server/api";
 
 Reaction.registerPackage({
-  label: "Reaction Connect",
+  label: "Connect",
   name: "reaction-connect",
   icon: "fa fa-rocket",
   autoEnable: true,
