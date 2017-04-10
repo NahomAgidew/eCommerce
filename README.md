@@ -1,4 +1,4 @@
-# Reaction
+# eCommerce
 
 This is a completely generic eCommerce website built with Node.js on top of the Reaction framework. 
 
